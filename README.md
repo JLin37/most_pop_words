@@ -6,7 +6,10 @@
 
 for example:
 ```
-(..../api/v1/<language>)
+.../api/v1/<language>
 ```
 where language is the variable in the url that you would specify to get the language you want to see.
-thus for english the url would look like:	 ..../api/v1/en_full
+thus for english the url would look like:	 
+```
+.../api/v1/en_full
+```
