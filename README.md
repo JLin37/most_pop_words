@@ -5,6 +5,6 @@
 - Then a simple api that can serve the data by calling the mongo database. The url is setup for you can pull data from one language at a time 
 
 for example:
-		..../api/v1/<language>
-		where language is the variable in the url that you would specify to get the language you want to see.
-		thus for english the url would look like: ..../api/v1/en_full
+		- (..../api/v1/<language>)
+		- where language is the variable in the url that you would specify to get the language you want to see.
+		- thus for english the url would look like: ..../api/v1/en_full
